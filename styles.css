@@ -1,0 +1,26 @@
+body {
+    background-color:bisque;
+}
+
+h1,
+h2,
+h3,
+a,
+em {
+    color: olive;
+}
+
+.banner-background
+{
+    background-color: rgb(55, 55, 6);
+}
+
+.banner-text {
+    color: bisque;
+    text-decoration: none;
+}
+
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(55, 55, 6);
+}
